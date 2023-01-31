@@ -1,0 +1,17 @@
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.vbproj.AssemblyReference.cache
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31._01.Form1.resources
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.vbproj.GenerateResource.cache
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.AssemblyInfoInputs.cache
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.AssemblyInfo.vb
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.vbproj.CoreCompileInputs.cache
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\examen31.01.exe
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\examen31.01.deps.json
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\examen31.01.runtimeconfig.json
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\examen31.01.dll
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\ref\examen31.01.dll
+C:\Users\12101884\source\repos\examen31-1\examen31.01\bin\Debug\net6.0-windows\examen31.01.pdb
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.dll
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\ref\examen31.01.dll
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.pdb
+C:\Users\12101884\source\repos\examen31-1\examen31.01\obj\Debug\net6.0-windows\examen31.01.genruntimeconfig.cache
