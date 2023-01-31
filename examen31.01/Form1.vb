@@ -1,6 +1,9 @@
 ﻿Public Class Form1
+    ' er is geen counter of blokkade bij verkeerd inloggen
     Dim inlogpogingen As Integer = 0
     ''Login en wachtwoord valideren adv een functie
+
+    'Controleert enkel of er een spatie is, niet of deze in het midden is
     Private Function ValideerLogin() As Boolean
         If txt_login.Text.Contains(" ") Then
             Return True
